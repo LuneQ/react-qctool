@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className='container'>
-        <p>Input your code here</p>
+        <p className='title'>Input your code here</p>
         <textarea></textarea>
         <p>Choose The Account</p>
         <form>
